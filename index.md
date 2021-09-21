@@ -1,7 +1,4 @@
 ---
-layout: page
-title:  Associate Professor
-subtitle: Web Information Systems, TU Delft
 ---
 
 ## <img src="/img/news.png" height="50px"> News
