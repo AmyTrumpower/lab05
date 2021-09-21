@@ -16,9 +16,9 @@ author: Amy T. Trumpower
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Beautiful Jekyll: <a>"https://beautifuljekyll.com"</a>
+    - Learn markdown: <a>"https://www.markdowntutorial.com/"</a>
+  Author's home: <a>"https://deanattali.com"</a>
 
 # --- Logo --- #
 
