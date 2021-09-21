@@ -13,11 +13,6 @@ For a brief and compact overview, take a look at my 1-page [CV](../documents/Hau
 ## <img src="/img/contact.png" height="50px"> Contact
 
 ```
-TU Delft - EWI/ST/WIS
-PO Box 5031
-2600 GA Delft
-The Netherlands
-
-Office: Van Mourik Broekmanweg 6, East Wing 04.100
-Email: c.hauff[at]tudelft.nl or claudia.hauff[at]gmail.com
+Cell:(540)654-1212
+Email: attrumpo[at]asu.edu
 ```
